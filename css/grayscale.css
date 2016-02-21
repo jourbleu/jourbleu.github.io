@@ -196,6 +196,17 @@ a:hover, a:focus {
   background-size: cover;
   -o-background-size: cover;
 }
+.lieu-section {
+  /*width: 100%;
+  padding-bottom: 250px;*/
+  color: white;
+  background: url(../img/lieu-bg.jpg) no-repeat center center scroll;
+  background-color: black;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
 
 @media (min-width: 767px) {
   .content-section {
