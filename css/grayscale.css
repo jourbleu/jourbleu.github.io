@@ -141,6 +141,12 @@ a:hover, a:focus {
 .intro.intro2 {
   background: url(../img/intro-bg2.jpg) no-repeat bottom center scroll;
 }
+.intro.intro3 {
+  background: url(../img/intro-bg3.jpg) no-repeat bottom center scroll;
+}
+.intro.intro4 {
+  background: url(../img/intro-bg4.jpg) no-repeat bottom center scroll;
+}
 .intro .intro-body {
   display: table-cell;
   vertical-align: middle;
