@@ -204,8 +204,6 @@ a:hover, a:focus {
 }
 
 .activites-section {
-  /*width: 100%;
-  padding-bottom: 250px;*/
   color: white;
   background: url(../img/activites-bg.jpg) no-repeat center center scroll;
   background-color: black;
@@ -216,8 +214,6 @@ a:hover, a:focus {
 }
 
 .lieu-section {
-  /*width: 100%;
-  padding-bottom: 250px;*/
   color: white;
   background: url(../img/lieu-bg.jpg) no-repeat center center scroll;
   background-color: black;
@@ -225,12 +221,6 @@ a:hover, a:focus {
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-}
-
-.lieu-section .container {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background: rgba(0,0,0,0.4);
 }
 
 @media (min-width: 767px) {
@@ -246,6 +236,11 @@ a:hover, a:focus {
   .content-section.methode-section {
     padding-top: 150px;
     padding-bottom: 150px;
+  }
+
+  .content-section.lieu-section {
+    padding-top: 100px;
+    padding-bottom: 450px;
   }
 
   .content-section.horaire-section {
